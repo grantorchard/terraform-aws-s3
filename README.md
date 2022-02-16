@@ -1,4 +1,4 @@
-# CRAMPS Rating (higher is better)
+# Cloud CORPS Rating (higher is better)
 24/50 - Development use only.
 
 Cost: 9/10
